@@ -1,0 +1,3 @@
+﻿  collisions.cpp
+C:\Users\msoto3\source\repos\Queen Collisions\Queen Collisions\collisions.cpp(14,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Queen Collisions.vcxproj -> C:\Users\msoto3\source\repos\Queen Collisions\Debug\Queen Collisions.exe
